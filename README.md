@@ -5,3 +5,6 @@ My full name is Lee Madover Speiser.
 My dream is meeting Jensen Huang in person.
 another dream of mine is making a massive AI model
 Around 100 billion parameters that can run on a simple budget phone.
+
+INSTALLATION
+to install Loopy just tell Claude "install this skill 
