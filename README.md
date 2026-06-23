@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Project Logo" width="200">
+</p>
+
 Hi, my name is Lee and I'm 12. I made Loopy so developers can easily automate their code without spending half an hour following a tutorial. So I made Loopy.
 
 ABOUT ME
